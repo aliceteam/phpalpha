@@ -16,6 +16,8 @@ and open the template in the editor.
             echo '<br>';
             
             echo 'Alpha1';
+            
+            echo 'Bravo';
         ?>
     </body>
 </html>
