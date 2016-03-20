@@ -18,6 +18,8 @@ and open the template in the editor.
             echo 'Alpha1';
             
             echo 'Bravo';
+            
+            echo 'Chare';
         ?>
     </body>
 </html>
